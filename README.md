@@ -28,7 +28,7 @@
 ### 1. 📥 Clone the repo
 
 ```bash
-git clone https://github.com/your-username/ask-me-doc-ai.git
+git clone git@github.com:arvinkent18/ask-me-doc-ai.git
 cd ask-me-doc-ai
 ```
 
